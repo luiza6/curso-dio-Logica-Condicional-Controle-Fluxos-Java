@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\eletr\Desktop\Estudos\DIO\Bootcamps\GFT Start Woman Java\Lógica Condicional e Controle de Fluxos em Java\Controle de Fluxo\.metadata\.plugins\org.eclipse.jdt.core
+3544674746.index
+1865797976.index
+2707940638.index
